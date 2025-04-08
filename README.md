@@ -1,2 +1,5 @@
-# student-performance-classifier
-This project builds a classification model to predict student performance levels on the Saber Pro exam in Colombia.
+Jeferson Alexander Del Rio Herrera
+
+cedula 1036683832
+
+Ingeniería de sistemas virtual sede Medellín 
