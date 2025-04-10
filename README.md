@@ -4,4 +4,4 @@
 
 ### Ricardo Medina Herrera
 - **Cédula:** 1036251162
-- **Programa:** Ingeniería de Sistemas  virtual Sede Medellín 
+- **Programa:** Ingeniería de Sistemas  seccional del Carmen
