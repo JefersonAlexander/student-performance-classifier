@@ -8,4 +8,4 @@
 
 ## link video entrega 2
 
-[Preprocesamiento](https://drive.google.com/file/d/1lhF5SowR5hPpiniBhZQqYpu6Mx59bmNC/view?usp=sharing)
+[Preprocesamiento](https://youtu.be/xrfHi4ky6Ks)
