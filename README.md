@@ -9,3 +9,7 @@
 ## link video entrega 2
 
 [Preprocesamiento](https://youtu.be/xrfHi4ky6Ks)
+
+## link video entrga final
+
+[Modelo solución](https://youtu.be/jjFRuK76yd4)
